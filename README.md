@@ -39,7 +39,6 @@ for each wear category.</p>
 ### Program:
 
 ```python
-```python
 from collections import defaultdict
 from itertools import combinations
 
@@ -134,7 +133,6 @@ else:
     print("No frequent sequential patterns found in Party Wear.")
 ```
 
-```
 ### Output:
 
 <img width="459" height="273" alt="image" src="https://github.com/user-attachments/assets/750d0afe-6044-4253-b127-31d675dd727e" />
